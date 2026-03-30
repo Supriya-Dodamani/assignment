@@ -1,0 +1,22 @@
+{
+  "name": "my-web-app",
+  "version": "1.0.0",
+  "description": "A web application with Bootstrap integration for user authentication and dashboard.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build step can be added here'"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.8"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "web",
+    "bootstrap",
+    "authentication",
+    "dashboard"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}

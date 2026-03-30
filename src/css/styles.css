@@ -1,0 +1,35 @@
+/* Custom styles for the web application */
+
+/* Body styles */
+body {
+    background-color: #f8f9fa; /* Light background color */
+    font-family: Arial, sans-serif; /* Custom font */
+}
+
+/* Header styles */
+h1, h2, h3, h4, h5, h6 {
+    color: #343a40; /* Dark text color */
+}
+
+/* Button styles */
+.btn-custom {
+    background-color: #007bff; /* Custom button color */
+    color: white; /* Button text color */
+}
+
+.btn-custom:hover {
+    background-color: #0056b3; /* Darker shade on hover */
+}
+
+/* Form styles */
+.form-control {
+    border-radius: 0.25rem; /* Rounded corners for form inputs */
+}
+
+/* Footer styles */
+footer {
+    background-color: #343a40; /* Dark footer background */
+    color: white; /* Footer text color */
+    padding: 1rem 0; /* Padding for footer */
+    text-align: center; /* Centered text */
+}
